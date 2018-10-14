@@ -1,0 +1,6 @@
+use_frameworks!
+target 'JVImmutablePair_Tests' do
+  pod 'JVImmutablePair', :path => '../'
+  
+  
+end
