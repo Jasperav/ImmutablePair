@@ -1,0 +1,16 @@
+PODS:
+  - JVImmutablePair (0.1.0)
+
+DEPENDENCIES:
+  - JVImmutablePair (from `../`)
+
+EXTERNAL SOURCES:
+  JVImmutablePair:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JVImmutablePair: f6446baa01072fdcc5a61d7f59747f95755b2845
+
+PODFILE CHECKSUM: 029f0c82eb1aabd8b9f4c3eb00a29502c8f10c50
+
+COCOAPODS: 1.6.0.beta.1

@@ -1,0 +1,6 @@
+framework module JVImmutablePair {
+  umbrella header "JVImmutablePair-umbrella.h"
+
+  export *
+  module * { export * }
+}

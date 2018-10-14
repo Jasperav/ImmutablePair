@@ -1,0 +1,6 @@
+framework module Pods_JVImmutablePair_Tests {
+  umbrella header "Pods-JVImmutablePair_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
